@@ -1,7 +1,10 @@
 # Alexa LISA skill
 > Experimental Alexa Skill to imitate normal human interaction
+
 ## Story :
+
 ### Life is Short!
+
 > Yes - thats a fact. We get too busy with things in our life, that sometime "life" takes a back seat. We sometime forget that there are really interesting things around us, and we instead are caught in a race with no end.
 
 LISA ( derived from Life Is Short.. ) attempts to be the bridge between us and the outside world in a friendly and funny manner, and tries to build a human connection with us in this otherwise highly tech influenced world.
