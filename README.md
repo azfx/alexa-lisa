@@ -37,7 +37,7 @@ Me : "Thanks Lisa!"
 Lisa : "GoodBye. And don't forget the groceries on your way back!. I have sent the list to that as well!"
 ```
 
-## Refer https://github.com/alexa/skill-sample-nodejs-fact on how to setup skills on AWS etc..
+> Refer https://github.com/alexa/skill-sample-nodejs-fact on how to setup skills on AWS etc..
 
 ## Skills Setup Details
 ### Intent
